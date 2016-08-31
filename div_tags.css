@@ -62,7 +62,7 @@
 	font-family: 'Roboto', sans-serif;
 	color:#000;
 	text-indent:10px;
-	line-height:15px;
+	line-height:0px;
 	float: middle;
 }
 
@@ -80,7 +80,7 @@
 	color:#AEAEAE;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
-	padding:75px;
+	padding:45px;
 	line-height:1px;
 	clear: both;
 }
