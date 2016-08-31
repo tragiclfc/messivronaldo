@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700');
 #anim {
     margin-top: 25px;
     font-size: 21px;
@@ -44,7 +45,7 @@
 }
 #header {
 	background: black;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	color: #FFF;
 	padding: 0px;
@@ -58,7 +59,7 @@
 #section {
 	padding:50px;
 	font-size:12px;
-	font-family:Roboto;
+	font-family: 'Roboto', sans-serif;
 	color:#000;
 	text-indent:10px;
 	line-height:15px;
@@ -71,13 +72,13 @@
 	padding:10px;
 	text-align:center;
 	line-height:12px;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;
 }
 
 #footer {
 	font-size:12px;
 	color:#AEAEAE;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	padding:75px;
 	line-height:1px;
